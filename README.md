@@ -1,7 +1,9 @@
-Role Name
-=========
+Molecule RPC Openstack Functional System Integration Testing
+============================================================
+[![Build Status](https://travis-ci.org/rcbops/molecule-rpco-fsit.svg?branch=dev)](https://travis-ci.org/rcbops/molecule-rpco-fsit)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This role performs funcional system integration testing for RPC Openstack
+This role performs functional system integration testing for RPC Openstack
 products.
 
 Requirements
