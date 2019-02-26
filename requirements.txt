@@ -1,0 +1,7 @@
+-c constraints.txt
+ansible
+flake8-filename
+flake8-pytest-mark
+magic-marker
+molecule
+pytest-rpc
