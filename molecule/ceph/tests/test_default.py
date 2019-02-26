@@ -14,7 +14,7 @@ testinfra_hosts = testinfra.utils.ansible_runner.AnsibleRunner(
 # =============================================================================
 # Test Cases
 # =============================================================================
-@pytest.mark.test_id('3ec6f68c-39d5-11e9-aa20-6a00035510c0')
+@pytest.mark.test_id('d28a9df8-3a1e-11e9-b20d-6a00035510c0')
 @pytest.mark.jira('ASC-1656')
 def test_hosts_file(host):
     """Dummy test to verify that molecule scenerio works."""
