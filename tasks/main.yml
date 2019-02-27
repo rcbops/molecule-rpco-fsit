@@ -1,2 +1,4 @@
 ---
 # tasks file for molecule-rpco-fsit
+- import_role:
+    name: ansible-role-pytest-rpc
